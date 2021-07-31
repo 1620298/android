@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="loginhere">Loginhere</string>
+    <string name="firstname">Firstname</string>
+    <string name="Lastname">Lastname</string>
+    <string name="Dni">Dni</string>
+    <string name="signuphere">Signuphere</string>
+    <string name="welcome">Welcome</string>
+    <string name="auto">Auto</string>
+    <string name="camioneta">Camioneta</string>
+    <string name="moto">Moto</string>
+    <string name="marcasauto">Marcas Auto</string>
+    <string name="opcionesvehiculo">Opciones Vehiculo</string>
+    <string name="marcaa">Marca A</string>
+    <string name="marcab">Marca B</string>
+    <string name="marcascamioneta">Marcas Camioneta</string>
+    <string name="marcasmoto">Marcas Moto</string>
+    <string name="fecnac">Fecha de Nacimiento</string>
+    <string name="dir">Direccion</string>
+    <string name="direccion">Direccion</string>
+    <string name="telefono">Telefono</string>
+</resources>
